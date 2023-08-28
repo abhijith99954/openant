@@ -1,0 +1,6 @@
+{{#user}}
+Name: Abhijith S
+Skills: HTML, CSS,AWS, Azure
+Email: abhijith99954@gmail.com
+{{/user}}
+
